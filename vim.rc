@@ -1,0 +1,10 @@
+" enable syntax highlighting
+syntax enable
+
+" tabs and spaces
+set tabstop=2
+set softtabstop=2
+set expandtab
+
+" line numbers
+set number
