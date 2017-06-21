@@ -8,3 +8,6 @@ set expandtab
 
 " line numbers
 set number
+
+" make color readable on dark background
+set background=dark
