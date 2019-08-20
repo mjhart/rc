@@ -9,5 +9,5 @@ set expandtab
 " line numbers
 set number
 
-" make color readable on dark background
-set background=dark
+" make color readable on light background
+set background=light
